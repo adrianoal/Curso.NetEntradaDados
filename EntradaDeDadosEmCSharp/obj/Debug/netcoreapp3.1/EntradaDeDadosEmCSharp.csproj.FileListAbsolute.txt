@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\bin\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.exe
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\bin\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.deps.json
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\bin\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\bin\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\bin\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.dll
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\bin\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.pdb
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.dll
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.pdb
+C:\Users\aalima5\Desktop\Code C#\EntradaDeDadosEmCSharp\EntradaDeDadosEmCSharp\obj\Debug\netcoreapp3.1\EntradaDeDadosEmCSharp.genruntimeconfig.cache
